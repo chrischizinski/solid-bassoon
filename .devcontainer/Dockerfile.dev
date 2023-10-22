@@ -2,7 +2,7 @@
 # Adapted from https://github.com/RamiKrispin/vscode-r
 
 # Step 1 - Import base image
-FROM ubuntu:22.04
+FROM ubuntu-latest
 
 
 LABEL maintainer="Chris Chizinski <chris.chizinski@gmail.com>"
